@@ -85,8 +85,19 @@ Modern responsive developer portfolio built with React.
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navo2002-abey&show_icons=true&theme=tokyonight)
 
-(Add GitHub Stats Cards here)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navo2002-abey&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=navo2002-abey&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=navo2002-abey&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navodya-abeywickrama-280aa6319)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://navodya-s-portfolio.vercel.app)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:navodya.abeywickrama@gmail.com)
 
 ---
 
@@ -120,18 +131,4 @@ https://navodya-s-portfolio.vercel.app
 
 ⭐ Thanks for visiting my GitHub Profile!
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navo2002-abey&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navo2002-abey&layout=compact&theme=tokyonight)
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=navo2002-abey&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=navo2002-abey&color=blue)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navodya-abeywickrama-280aa6319)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://navodya-s-portfolio.vercel.app)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:navodya.abeywickrama@gmail.com)
