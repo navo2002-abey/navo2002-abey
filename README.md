@@ -120,9 +120,11 @@ https://navodya-s-portfolio.vercel.app
 
 ⭐ Thanks for visiting my GitHub Profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navo2002-abey&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=navo2002-abey&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navo2002-abey&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=navo2002-abey&layout=compact&theme=tokyonight)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navo2002-abey&theme=tokyonight)
 
